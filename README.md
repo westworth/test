@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @westworth
+- 👀 I’m interested in further developing my understanding of HTML and CSS so that I can teach it to high school students.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on web development and learning opportunities for students
